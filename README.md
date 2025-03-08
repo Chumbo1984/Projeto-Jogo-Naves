@@ -29,7 +29,7 @@ O objetivo do jogo é resgatar soldados aliados enquanto elimina os inimigos, ap
 ## Instalação e Execução
 1. Clone ou baixe este repositório.
    ```bash
-  git clone https://github.com/Chumbo1984/Projeto-Jogo-Naves
+   git clone https://github.com/Chumbo1984/Projeto-Jogo-Naves
    ```
 2. Abra o arquivo `index.html` em um navegador.
 
