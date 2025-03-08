@@ -1,6 +1,6 @@
 # Jogo de Tiro - Resgate e Combate
 
-![Ilustração do Jogo](icon.png)
+![Ilustração do Jogo](https://github.com/Chumbo1984/Projeto-Jogo-Naves/blob/main/imgs/icon.png)
 
 ## Descrição
 Este projeto é um jogo de tiro desenvolvido para rodar em navegadores, utilizando as tecnologias HTML5, CSS3 e JavaScript. Para facilitar a manipulação do DOM e eventos, a biblioteca jQuery foi utilizada.
@@ -21,7 +21,7 @@ O objetivo do jogo é resgatar soldados aliados enquanto elimina os inimigos, ap
 - Sistema de vidas e game over.
 
 ## Como Jogar
-1. Utilize as **setas do teclado** ou **teclas WASD** para movimentar o personagem.
+1. Utilize as **teclas WS** para movimentar o personagem.
 2. Pressione a tecla **espaço** para atirar.
 3. Evite os inimigos e tente resgatar o maior número possível de soldados.
 4. O jogo termina quando todas as vidas são perdidas.
@@ -29,7 +29,7 @@ O objetivo do jogo é resgatar soldados aliados enquanto elimina os inimigos, ap
 ## Instalação e Execução
 1. Clone ou baixe este repositório.
    ```bash
-   git clone https://github.com/seu-usuario/jogo-de-tiro.git
+  git clone https://github.com/Chumbo1984/Projeto-Jogo-Naves
    ```
 2. Abra o arquivo `index.html` em um navegador.
 
